@@ -22,7 +22,25 @@ body{
   background-color:red ;
   
 }
-button{
+
+
+h1{
+  position :fixed;
+  font-weight: normal;
+  font-size: 90px;
+  margin: 0;
+  padding: 0;
+  color :yellow;
+  background-color :;
+}
+.button{ font-size:40 ;
+  height :90px;
+  width:90px;
+  background-color:transparent ;
+  color: yellow;
+  
+} 
+
   
   
   
@@ -31,5 +49,5 @@ button{
   
   
 
-}
+
 
