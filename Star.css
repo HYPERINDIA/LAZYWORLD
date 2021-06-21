@@ -31,13 +31,13 @@ h1{
   margin: 0;
   padding: 0;
   color :yellow;
-  background-color :;
+  background-color :pink;
 }
-.button{ font-size:40 ;
+.button{ font-size:20 ;
   height :90px;
   width:90px;
-  background-color:transparent ;
-  color: yellow;
+  background-color:yellow;
+  
   
 } 
 
